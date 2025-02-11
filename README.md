@@ -36,7 +36,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos:
 
 2. Execute o script Python:
     ```
-    python reconhecer_celebridades.py
+    python index.py
 
 3. O script exibirá no console as celebridades reconhecidas na imagem, juntamente com informações como nome, ID, URLs e confiança do reconhecimento.
 
